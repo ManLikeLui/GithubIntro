@@ -6,3 +6,5 @@ Banana
 Cherries
 Carrits
 Cereal
+Cucumber
+Radishes
